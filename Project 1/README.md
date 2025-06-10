@@ -86,8 +86,7 @@ Example:
 
 ### 1. Clone or Download This Repository
 ```bash
-git clone https://github.com/<your-username>/OIBSIP-EDA-Retail-Sales.git
-cd OIBSIP-EDA-Retail-Sales
+Clone the File in your system
 ```
 ---
 ## 2. Install Required Python Packages
