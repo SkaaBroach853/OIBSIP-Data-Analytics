@@ -95,3 +95,7 @@ python airbnb_data_cleaning.py
 ---
 ## 🙌 Acknowledgements
 ### This project is part of the AICTE OASIS Infobyte Data Analytics Internship.
+---
+## Author
+- Name :- Aaditya Devadiga
+- Oasis Internship - Data Analytics
