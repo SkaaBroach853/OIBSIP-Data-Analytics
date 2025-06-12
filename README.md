@@ -85,3 +85,8 @@ pip install -r requirements.txt
 ## 🙌 Acknowledgement
 
 - This project portfolio was developed as part of the AICTE OASIS Infobyte Data Analytics Internship.
+
+---
+
+## Author
+- Name :- Aaditya Devadiga
