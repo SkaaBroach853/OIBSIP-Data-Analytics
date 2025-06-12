@@ -95,3 +95,6 @@ python customer_segmentation.py
 
 - ✅ Visualized and interpreted customer segments
 ---
+## Author
+- Name :- Aaditya Devadiga
+- Oasis Internship - Data Analytics
