@@ -1,5 +1,3 @@
-# retail_eda.py
-
 # ✅ 1. Import Required Libraries
 import pandas as pd
 import numpy as np
